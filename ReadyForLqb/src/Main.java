@@ -140,5 +140,6 @@ public class Main {
             arr1[i] = arr[i][0];
         }
         return arr1;
+// ajfkllaf
     }
 }
